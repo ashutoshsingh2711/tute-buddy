@@ -1,0 +1,22 @@
+{
+  "name": "tutebuddy",
+  "version": "1.0.0",
+  "description": "A seamless learning platform for brighter futures",
+  "main": "project.html",
+  "scripts": {
+    "start": "open project.html",
+    "build": "echo 'No build needed for static site'"
+  },
+  "keywords": [
+    "education",
+    "learning",
+    "platform",
+    "students"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/tutebuddy.git"
+  }
+}
